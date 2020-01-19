@@ -1,0 +1,14 @@
+E:\Trainings\SBTWebAPI\SBTWebAPI\bin\Debug\netcoreapp2.1\SBTWebAPI.deps.json
+E:\Trainings\SBTWebAPI\SBTWebAPI\bin\Debug\netcoreapp2.1\SBTWebAPI.runtimeconfig.json
+E:\Trainings\SBTWebAPI\SBTWebAPI\bin\Debug\netcoreapp2.1\SBTWebAPI.runtimeconfig.dev.json
+E:\Trainings\SBTWebAPI\SBTWebAPI\bin\Debug\netcoreapp2.1\SBTWebAPI.dll
+E:\Trainings\SBTWebAPI\SBTWebAPI\bin\Debug\netcoreapp2.1\SBTWebAPI.pdb
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.csprojAssemblyReference.cache
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.csproj.CoreCompileInputs.cache
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.RazorAssemblyInfo.cache
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.RazorAssemblyInfo.cs
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.AssemblyInfoInputs.cache
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.AssemblyInfo.cs
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.RazorTargetAssemblyInfo.cache
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.dll
+E:\Trainings\SBTWebAPI\SBTWebAPI\obj\Debug\netcoreapp2.1\SBTWebAPI.pdb
